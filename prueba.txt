@@ -3,3 +3,5 @@ este documento es para la prueba de git
 nuevo commit de prueba para github
 
 modificación hecha en una branch (primera prueba branch)
+
+prueba merge
